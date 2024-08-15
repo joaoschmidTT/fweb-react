@@ -1,0 +1,22 @@
+#h1{
+    color: rgb(0, 132, 255);
+    position: relative;
+    left: 40%;
+}
+
+.input2{
+  background-color: rgb(203, 231, 231);
+    position: relative;
+  left: 40%;
+}
+
+#botao{
+  background-color: aqua;
+  position: relative;
+  left: 40%;
+}
+
+*{
+  background-color: rgb(135, 135, 184);
+}
+
